@@ -7,7 +7,7 @@ description: About Julia  Breckenreid
 number: 1
 pagetype:
   - main
-featuredimage: /img/julia.jpg
+featuredimage: /img/julia-algonquin-tree.jpg
 ---
 ## About Julia
 
