@@ -70,4 +70,23 @@ const { title, description, thumbnail } = entry.data;
 </form>
 </div>
   </article>
+<script>
+  const form = document.getElementById("contact-form");
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    const response = await fetch(form.action, {
+      method: form.method,
+      body: new FormData(form),
+      headers: { Accept: "application/json" }
+    });
+
+    if (response.ok) {
+      window.location.href = "/contact/thanks";
+    } else {
+      alert("Something went wrong. Please try again.");
+    }
+  });
+</script>
 </Layout>
