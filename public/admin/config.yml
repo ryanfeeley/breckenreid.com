@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: ryanfeeley/breckenreid.com
   branch: main
   commit_messages:
     create: "Create {{collection}} '{{slug}}'"
