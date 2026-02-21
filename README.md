@@ -142,28 +142,46 @@ Add or edit markdown files directly in the `src/content/` folders:
 
 #### Decap CMS (Optional)
 
-> **⚠️ Note**: The Decap CMS configuration is **disabled by default** (`public/admin/config.yml.disabled`) to ensure smooth deployments. Netlify Identity (required for the CMS) is now deprecated by Netlify.
+> **⚠️ Note**: The Decap CMS configuration is **disabled by default** (`public/admin/config.yml.disabled`) to ensure smooth deployments.
 
 **For showcase/demo purposes**: The CMS is not needed. Edit content files directly in your repository.
 
-**To enable the CMS for production use**:
+##### Decap auth decision record (production)
 
-1. Choose a backend option:
-   - **Git Gateway** (deprecated but functional): Requires Netlify Identity setup
-   - **GitHub/GitLab OAuth**: Direct repository authentication
-   - **Alternative**: Consider modern headless CMS solutions like Sanity, Contentful, or Tina CMS
+- **Chosen backend**: `github` backend (GitHub OAuth App), configured in `public/admin/config.yml`.
+- **Why this was chosen**: Git Gateway depends on Netlify Identity, which is deprecated. GitHub OAuth is actively maintained, supported by Decap CMS, and maps directly to repository permissions.
+- **Required secrets / env vars**:
+  - OAuth App client ID
+  - OAuth App client secret
+  - Decap OAuth callback/redirect URL matching your deployed admin URL (for example `/admin/`)
+  - Any host-specific OAuth bridge variables (if your host requires a Decap auth endpoint/service)
+- **Who can log in**: Only approved GitHub users with explicit access to the repository (preferably through an organization team).
 
-2. Rename the config file:
-   ```bash
-   mv public/admin/config.yml.disabled public/admin/config.yml
-   ```
+##### Local authoring vs production auth
 
-3. Update the backend configuration in `public/admin/config.yml` based on your chosen authentication method
+- **Local author testing** (keep this enabled):
+  - `local_backend: true` remains in `public/admin/config.yml` for local workflow.
+  - Run your local Decap proxy server and sign in via local backend when developing.
+- **Production auth**:
+  1. Rename the config file:
+     ```bash
+     mv public/admin/config.yml.disabled public/admin/config.yml
+     ```
+  2. Keep `backend.name: github` and set `backend.repo` to your production repo.
+  3. Configure the GitHub OAuth App and host auth endpoint/secrets.
+  4. Validate login only works for authorized repo/org users.
 
-4. For Git Gateway (if using despite deprecation):
-   - Enable Netlify Identity in your site settings
-   - Enable Git Gateway under Identity → Services
-   - Note: Netlify recommends migrating to Auth0 or other solutions
+##### Minimum access policy
+
+1. **Restrict OAuth app scope**:
+   - Limit installation/use to your GitHub organization (or single owner) and the target repository.
+   - Do not allow broad multi-repo access unless explicitly required.
+2. **Least privilege for CMS users**:
+   - Grant CMS access only to a small maintainer/editor team.
+   - Use repository roles that allow only required content operations.
+3. **Change control for published content**:
+   - Enforce branch protection on `main`.
+   - Require pull requests and at least one reviewer approval for content changes before merge.
 
 ### Navigation
 
