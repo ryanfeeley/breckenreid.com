@@ -26,8 +26,6 @@ The New York Times · The Boston Globe · Smithsonian · Nautilus · Scientific 
 _O_ The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  
 Johns Hopkins and Stanford magazine(s)
 
-**Online:** Bluesky · LinkedIn · Cara · Instagram
-
 ## Marian Hebb Research Grant (2025)
 
 Recipient of the **Marian Hebb Research Grant** from the Access Copyright Foundation, supporting the creation of a nonfiction graphic memoir.
