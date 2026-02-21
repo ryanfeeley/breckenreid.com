@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
 title: Julia Breckenreid
-image: /img/clay-images-7.jpg
-description: A stunning Astro theme designed for captivating image-centric websites, perfect for photographers, portfolios, and blogs.
-thumbnail: /img/clay-images-7.jpg
+image: /img/julia-algonquin-tree.jpg
+description: Official website of illustrator Julia Breckenreid.
+thumbnail: /img/julia-algonquin-tree.jpg
 heading: Main Heading
 subheading: Sub HEading
-featuredimage: /img/clay-images-7.jpg
+featuredimage: /img/julia-algonquin-tree.jpg
 ---
