@@ -21,10 +21,7 @@ Currently, my focus has shifted toward authorship and advocacy. I remain open to
 
 ## Selected Clients
 
-ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  
-The New York Times · The Boston Globe · Smithsonian · Nautilus · Scientific American ·  
-_O_ The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  
-Johns Hopkins and Stanford magazine(s)
+ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  _O_ The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
 
 ## Marian Hebb Research Grant (2025)
 
