@@ -15,7 +15,7 @@ featuredimage: /img/book-section.jpg
 
 ### _"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."_
 
---Vanessa Curtis, Review: A Room of Your Own. Virginia Woolf Bulletin, No. 74, the Virginia Woolf Society of Great Britain.
+<small>--Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
 
 My work has been twice selected for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/): first in 2021 for _Dorothy & Herbert_, then again in 2023 for _The Pocket Book_. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
 
