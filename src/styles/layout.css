@@ -1,8 +1,9 @@
 /* Global Styles */
 body {
-    font-family: var(--font-serif);
+    font-family: var(--font-sans-serif);
     background: var(--color-bg);
     color: var(--color-base); /* Ensure text respects theme */
+    font-weight: var(--font-light);
     transition: background 0.3s ease-out, color 0.3s ease-out;
     transition-delay: 0.25;
     margin: 0;
