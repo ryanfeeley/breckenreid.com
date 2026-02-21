@@ -146,42 +146,41 @@ Add or edit markdown files directly in the `src/content/` folders:
 
 **For showcase/demo purposes**: The CMS is not needed. Edit content files directly in your repository.
 
-##### Decap auth decision record (production)
+##### Current workflow (exact state)
 
-- **Chosen backend**: `github` backend (GitHub OAuth App), configured in `public/admin/config.yml`.
-- **Why this was chosen**: Git Gateway depends on Netlify Identity, which is deprecated. GitHub OAuth is actively maintained, supported by Decap CMS, and maps directly to repository permissions.
-- **Required secrets / env vars**:
-  - OAuth App client ID
-  - OAuth App client secret
-  - Decap OAuth callback/redirect URL matching your deployed admin URL (for example `/admin/`)
-  - Any host-specific OAuth bridge variables (if your host requires a Decap auth endpoint/service)
-- **Who can log in**: Only approved GitHub users with explicit access to the repository (preferably through an organization team).
+- **Collection model**: Multi-collection CMS, not pages-only. `public/admin/config.yml.disabled` defines folder collections (`blog`, `work`, `exhibitions`) and a file-based `pages` collection.
+- **Config file state**: `public/admin/config.yml` is currently **not present**; the only committed config is `public/admin/config.yml.disabled`.
+- **Admin script/package**: This project should use **Decap CMS** (`decap-cms` / `@decapcms/app`) for `/admin`. If you enable CMS, update `public/admin/index.html` to load Decap CMS (instead of legacy Netlify CMS script references).
 
-##### Local authoring vs production auth
+##### Local backend + production auth requirements
 
-- **Local author testing** (keep this enabled):
-  - `local_backend: true` remains in `public/admin/config.yml` for local workflow.
-  - Run your local Decap proxy server and sign in via local backend when developing.
-- **Production auth**:
-  1. Rename the config file:
+- **Local authoring**:
+  1. Enable the config file:
      ```bash
-     mv public/admin/config.yml.disabled public/admin/config.yml
+     cp public/admin/config.yml.disabled public/admin/config.yml
      ```
-  2. Keep `backend.name: github` and set `backend.repo` to your production repo.
-  3. Configure the GitHub OAuth App and host auth endpoint/secrets.
-  4. Validate login only works for authorized repo/org users.
+  2. Keep `local_backend: true` in the active config.
+  3. Start the local proxy backend in a second terminal:
+     ```bash
+     npx decap-server
+     ```
+  4. Run Astro locally and open `/admin`:
+     ```bash
+     npm run dev
+     ```
+- **Production**:
+  1. Keep `backend.name: github` and set `backend.repo` to your production repository.
+  2. Configure GitHub OAuth (client ID/secret) plus any host-specific Decap auth endpoint your platform requires.
+  3. Set OAuth callback URL(s) to your deployed admin path (for example, `https://<your-domain>/admin/`).
+  4. Restrict login to approved GitHub users/teams with explicit repo access.
 
-##### Minimum access policy
+##### Decap readiness checklist (pre-launch)
 
-1. **Restrict OAuth app scope**:
-   - Limit installation/use to your GitHub organization (or single owner) and the target repository.
-   - Do not allow broad multi-repo access unless explicitly required.
-2. **Least privilege for CMS users**:
-   - Grant CMS access only to a small maintainer/editor team.
-   - Use repository roles that allow only required content operations.
-3. **Change control for published content**:
-   - Enforce branch protection on `main`.
-   - Require pull requests and at least one reviewer approval for content changes before merge.
+- [ ] `public/admin/config.yml` exists in the deploy context and matches production repo/branch.
+- [ ] `/admin` loads with Decap CMS assets (not legacy Netlify CMS assets).
+- [ ] OAuth login succeeds for authorized users and fails for unauthorized users.
+- [ ] Create/update/delete content operations commit to the expected branch.
+- [ ] Uploaded media lands in `public/img` and resolves correctly on the built site.
 
 ### Navigation
 
