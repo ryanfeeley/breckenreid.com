@@ -2,7 +2,7 @@
 templateKey: contact-page
 thumbnail: /img/studio.jpg
 date: 2023-03-02T10:17:05.133Z
-title: Contact Julia
+title: Contact
 description: Contact details and project availability.
 number: 3
 pagetype:
