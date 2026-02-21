@@ -24,7 +24,7 @@ A minimalist, image-centric theme for photographers and artists. Originally a Ga
 - 🔄 **Client Router** - Seamless client-side navigation for an SPA-like feel
 - 📱 **Responsive Design** - Mobile-friendly layout with a collapsible menu
 - 🌗 **Dark Mode** - Native dark mode support with toggle switch and persistence
-- 📝 **CMS Ready** - Optional **Decap CMS** support (disabled by default, see customization section)
+- 📝 **CMS Ready** - **Decap CMS** support at `/admin` for editing page content
 - 🎯 **Scoped CSS** - Modular, component-scoped styles replacing legacy monolithic CSS
 - ✍️ **Typography** - Futura for titles/menu (Small Caps) and EB Garamond for body
 - 📚 **Content Collections** - Type-safe Markdown content management
@@ -71,7 +71,7 @@ If you prefer a step-by-step approach:
 ## 🛠️ Tech Stack
 
 - **[Astro](https://astro.build)** - Static Site Generator
-- **[Decap CMS](https://decapcms.org/)** - Headless CMS (optional, disabled by default)
+- **[Decap CMS](https://decapcms.org/)** - Headless CMS for page editing
 - **[PostCSS](https://postcss.org/)** - CSS Processing
 - **TypeScript** - Type Safety
 - **Markdown/MDX** - Content Management
@@ -142,45 +142,42 @@ Add or edit markdown files directly in the `src/content/` folders:
 
 #### Decap CMS (Optional)
 
-> **⚠️ Note**: The Decap CMS configuration is **disabled by default** (`public/admin/config.yml.disabled`) to ensure smooth deployments.
+This repo now includes an active Decap admin setup:
 
-**For showcase/demo purposes**: The CMS is not needed. Edit content files directly in your repository.
+- `public/admin/index.html` loads Decap CMS for `/admin`
+- `public/admin/config.yml` defines a file-based **Pages** collection for:
+  - `src/content/pages/index.md`
+  - `src/content/pages/about.md`
+  - `src/content/pages/picture-books.md`
+  - `src/content/pages/contact.md`
+- Media uploads are stored in `public/img` and referenced via `/img`
 
-##### Current workflow (exact state)
+##### Local authoring
 
-- **Collection model**: Multi-collection CMS, not pages-only. `public/admin/config.yml.disabled` defines folder collections (`blog`, `work`, `exhibitions`) and a file-based `pages` collection.
-- **Config file state**: `public/admin/config.yml` is currently **not present**; the only committed config is `public/admin/config.yml.disabled`.
-- **Admin script/package**: This project should use **Decap CMS** (`decap-cms` / `@decapcms/app`) for `/admin`. If you enable CMS, update `public/admin/index.html` to load Decap CMS (instead of legacy Netlify CMS script references).
+1. Start Decap's local backend proxy in one terminal:
+   ```bash
+   npx decap-server
+   ```
+2. Run Astro in another terminal:
+   ```bash
+   npm run dev
+   ```
+3. Open `http://localhost:4321/admin`
 
-##### Local backend + production auth requirements
+##### Production notes
 
-- **Local authoring**:
-  1. Enable the config file:
-     ```bash
-     cp public/admin/config.yml.disabled public/admin/config.yml
-     ```
-  2. Keep `local_backend: true` in the active config.
-  3. Start the local proxy backend in a second terminal:
-     ```bash
-     npx decap-server
-     ```
-  4. Run Astro locally and open `/admin`:
-     ```bash
-     npm run dev
-     ```
-- **Production**:
-  1. Keep `backend.name: github` and set `backend.repo` to your production repository.
-  2. Configure GitHub OAuth (client ID/secret) plus any host-specific Decap auth endpoint your platform requires.
-  3. Set OAuth callback URL(s) to your deployed admin path (for example, `https://<your-domain>/admin/`).
-  4. Restrict login to approved GitHub users/teams with explicit repo access.
+- This config uses `backend.name: git-gateway` for Netlify-hosted auth flow.
+- In Netlify, enable **Identity** and **Git Gateway** for the site.
+- Under Identity settings, register your external provider (GitHub) and allow the intended users.
+- Keep `backend.branch` set to the branch you want CMS commits to target (currently `main`).
 
-##### Decap readiness checklist (pre-launch)
+##### Decap readiness checklist
 
-- [ ] `public/admin/config.yml` exists in the deploy context and matches production repo/branch.
-- [ ] `/admin` loads with Decap CMS assets (not legacy Netlify CMS assets).
-- [ ] OAuth login succeeds for authorized users and fails for unauthorized users.
-- [ ] Create/update/delete content operations commit to the expected branch.
-- [ ] Uploaded media lands in `public/img` and resolves correctly on the built site.
+- [ ] `/admin` loads with Decap CMS assets.
+- [ ] OAuth login succeeds for authorized users and rejects unauthorized users.
+- [ ] Page updates commit to the expected branch.
+- [ ] Uploaded media lands in `public/img` and resolves on the built site.
+- [ ] Login no longer redirects to a broken `api.netlify.com/auth?...site_id=<custom-domain>` URL.
 
 ### Navigation
 
