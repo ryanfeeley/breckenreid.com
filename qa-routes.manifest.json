@@ -1,0 +1,21 @@
+{
+  "routes": [
+    "/",
+    "/bio",
+    "/picture-books",
+    "/contact",
+    "/news/exhibition-recap",
+    "/news/studio-update",
+    "/news/workshop-announcement",
+    "/sold/london-gallery-sale",
+    "/sold/private-collection-nyc",
+    "/work/earthen-textures",
+    "/work/minimal-forms",
+    "/work/sculpted-vessels"
+  ],
+  "allowedMissingPatterns": [
+    "/sold/*",
+    "/news/*",
+    "/work/*"
+  ]
+}

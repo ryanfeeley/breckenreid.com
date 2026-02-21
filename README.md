@@ -201,3 +201,50 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 <p align="center">Made with ❤️ using Astro</p>
+
+---
+
+## 🧪 Theme cleanup regression check
+
+Use snapshot comparison to ensure critical routes remain identical during theme purge/refactor work.
+
+### Route manifest
+
+Retained routes and allowed deletion patterns are declared in `qa-routes.manifest.json`.
+
+- `routes`: routes expected to stay content-identical
+- `allowedMissingPatterns`: routes that can be intentionally removed (defaults include `/sold/*`, `/news/*`, `/work/*`)
+
+### Commands
+
+```bash
+# Capture snapshots to qa-snapshots/current
+BASE_URL=http://127.0.0.1:4321 npm run qa:snapshot
+
+# Capture baseline snapshots (typically from main) to qa-snapshots/baseline
+BASE_URL=http://127.0.0.1:4321 npm run qa:snapshot:baseline
+
+# Diff baseline vs current and fail on changes
+npm run qa:snapshot:diff
+```
+
+### Recommended workflow
+
+1. Checkout `main`, run your site locally, and generate baseline snapshots:
+   ```bash
+   git checkout main
+   npm run build && npm run preview
+   BASE_URL=http://127.0.0.1:4321 npm run qa:snapshot:baseline
+   ```
+2. Switch to your cleanup branch and regenerate current snapshots:
+   ```bash
+   git checkout <purge-branch>
+   npm run build && npm run preview
+   BASE_URL=http://127.0.0.1:4321 npm run qa:snapshot
+   ```
+3. Verify no unexpected route changes:
+   ```bash
+   npm run qa:snapshot:diff
+   ```
+
+The diff command exits non-zero if any retained route snapshot changes. Missing routes only pass when they match explicit ignore patterns from the manifest (or `SNAPSHOT_DIFF_IGNORE`).
