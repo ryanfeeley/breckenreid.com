@@ -1,0 +1,89 @@
+backend:
+  name: github
+  repo: ryanfeeley/breckenreid.com
+  branch: main
+  commit_messages:
+    create: "Create {{collection}} '{{slug}}'"
+    update: "Update {{collection}} '{{slug}}'"
+    delete: "Delete {{collection}} '{{slug}}'"
+    uploadMedia: "[skip ci] Upload '{{path}}'"
+    deleteMedia: "[skip ci] Delete '{{path}}'"
+
+local_backend: true
+media_folder: public/img
+public_folder: /img
+
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - file: src/content/pages/index.md
+        label: Home
+        name: index
+        fields:
+          - { label: Template Key, name: templateKey, widget: hidden, default: index-page }
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string, required: false }
+          - { label: Hero Image, name: image, widget: image, required: false }
+          - { label: Thumbnail, name: thumbnail, widget: image, required: false }
+          - { label: Heading, name: heading, widget: string, required: false }
+          - { label: Subheading, name: subheading, widget: string, required: false }
+          - { label: Featured Image, name: featuredimage, widget: image, required: false }
+          - { label: Body, name: body, widget: markdown, required: false }
+
+      - file: src/content/pages/about.md
+        label: About
+        name: about
+        fields:
+          - { label: Template Key, name: templateKey, widget: hidden, default: about-page }
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: text, required: false }
+          - { label: Date, name: date, widget: datetime, required: false }
+          - { label: Thumbnail, name: thumbnail, widget: image, required: false }
+          - { label: Featured Image, name: featuredimage, widget: image, required: false }
+          - { label: Navigation Order, name: number, widget: number, value_type: int, required: false }
+          - label: Page Type
+            name: pagetype
+            widget: list
+            required: false
+            field: { label: Type, name: type, widget: string }
+          - { label: Body, name: body, widget: markdown }
+
+      - file: src/content/pages/picture-books.md
+        label: Picture Books
+        name: picture-books
+        fields:
+          - { label: Template Key, name: templateKey, widget: hidden, default: picture-books }
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: text, required: false }
+          - { label: Date, name: date, widget: datetime, required: false }
+          - { label: Thumbnail, name: thumbnail, widget: image, required: false }
+          - { label: Featured Image, name: featuredimage, widget: image, required: false }
+          - { label: Site Name, name: site_name, widget: string, required: false }
+          - { label: Canonical URL, name: url, widget: string, required: false }
+          - { label: OpenGraph Type, name: type, widget: string, required: false }
+          - { label: Navigation Order, name: number, widget: number, value_type: int, required: false }
+          - label: Page Type
+            name: pagetype
+            widget: list
+            required: false
+            field: { label: Type, name: type, widget: string }
+          - { label: Body, name: body, widget: markdown }
+
+      - file: src/content/pages/contact.md
+        label: Contact
+        name: contact
+        fields:
+          - { label: Template Key, name: templateKey, widget: hidden, default: contact-page }
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: text, required: false }
+          - { label: Date, name: date, widget: datetime, required: false }
+          - { label: Thumbnail, name: thumbnail, widget: image, required: false }
+          - { label: Featured Image, name: featuredimage, widget: image, required: false }
+          - { label: Navigation Order, name: number, widget: number, value_type: int, required: false }
+          - label: Page Type
+            name: pagetype
+            widget: list
+            required: false
+            field: { label: Type, name: type, widget: string }
+          - { label: Body, name: body, widget: markdown }
