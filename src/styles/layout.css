@@ -179,7 +179,7 @@ footer.site-foot a {
     padding: 10px 12px;
     color: var(--color-base);
     font-family: var(--font-sans-serif);
-    font-weight: 400;
+    font-weight: 600;
     font-size: 1.8rem; /* Increased size again */
     text-transform: lowercase;
     font-variant: small-caps;
@@ -187,8 +187,18 @@ footer.site-foot a {
     opacity: 0.6;
 }
 
-.nav-current a,
 .site-head a:hover {
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.site-head a:active {
+    opacity: 1;
+}
+
+.nav-current a,
+.nav-current a:hover,
+.nav-current a:active {
     text-decoration: none;
     opacity: 1;
 }
@@ -208,7 +218,7 @@ footer.site-foot a {
     color: var(--color-base);
     font-size: 3rem;
     line-height: 1em;
-    font-weight: 500;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
