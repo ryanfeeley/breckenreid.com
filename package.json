@@ -6,7 +6,10 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "qa:snapshot": "node scripts/snapshot-routes.mjs",
+    "qa:snapshot:baseline": "node scripts/snapshot-routes.mjs baseline",
+    "qa:snapshot:diff": "node scripts/diff-snapshots.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
