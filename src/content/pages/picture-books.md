@@ -29,16 +29,16 @@ Here is a [KEY](https://julia-breckenreid.squarespace.com/key) to help you ident
 
 **An Eye for Color: The Story of Josef Albers** _"Strikingly illustrated by the award-winning graphic artist Breckenreid (in an admirable picture-book debut) and supported by terrific, inclusive backmatter, this will prove a must-have for museum shops as well as school and public libraries…"_\- Kirkus Reviews
 
-- A starred review from The School Library Journal
-- A starred review from The Horn Book
-- A Gold Standard Selection from Junior Library Guild (JLG)
+- Starred review from The School Library Journal
+- Starred review from The Horn Book
+- Gold Standard Selection from Junior Library Guild (JLG)
 - The American Library Association (ALA)
 - The California Reading Association (Eureka! Honor Book Award)
 - Smithsonian Notable Books
 - The New York Public Library's 100 Titles for Reading and Sharing
-- ISBN-10: 0805080724
-- ISBN-13: 9780805080728
-- ISBN-13: 9780545493383
-- Chinese translation: 986604906X - Hardcover 2011
+- ISBN-10: 0805080724 \
+ISBN-13: 9780805080728\
+ISBN-13: 9780545493383 \
+Chinese translation: 986604906X - Hardcover 2011
 
 **Find my books at your local library, or online via** **IndieBound**
