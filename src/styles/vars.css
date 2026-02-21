@@ -14,7 +14,7 @@
     --color-border: #ddd;
     --color-bg: #ffffff;
     --color-heading-on-media: #ffffff;
-    --color-heading-shadow-on-media: rgba(255, 255, 255, 0.95);
+    --color-heading-shadow-on-media: rgba(0, 0, 0, 0.95);
 
     /* Fonts */
     --font-sans-serif: 'Urbanist', 'Trebuchet MS', Arial, sans-serif;
