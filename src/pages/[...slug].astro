@@ -51,7 +51,7 @@ export async function getStaticPaths() {
         // Wait, getStaticPaths params: { slug: undefined } works for [...slug] to match root?
         // Yes, but index.astro (file) > [...slug].astro (dynamic).
         // So it's safe.
-        // For 'bio', slug is 'bio'.
+        // For 'about', slug is 'about'.
         props: { ...props, items, baseSlug },
       };
     });
