@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NETLIFY_SITE_ID = "f42d0c78-86a3-4d0a-b65c-b96ff7a1f507"
