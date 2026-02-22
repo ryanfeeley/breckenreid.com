@@ -4,14 +4,17 @@ import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
 const allPages = await getCollection('pages');
-
-const posts = allPages
-  .filter((item) => item.data.pagetype?.includes('main'))
+const homeCardOrder = ['books', 'about', 'contact'];
+const mainPages = allPages.filter((item) => item.data.pagetype?.includes('main'));
+const orderedPosts = homeCardOrder.flatMap((slug) => mainPages.filter((page) => page.slug === slug));
+const remainingPosts = mainPages
+  .filter((page) => !homeCardOrder.includes(page.slug))
   .sort((a, b) => {
     const numA = a.data.number || 9999;
     const numB = b.data.number || 9999;
     return numA - numB;
   });
+const posts = [...orderedPosts, ...remainingPosts];
 
 const indexPage = allPages.find((p) => p.slug === 'index');
 const title = indexPage?.data.title || 'Julia Breckenreid';
