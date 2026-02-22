@@ -166,11 +166,9 @@ This repo now includes an active Decap admin setup:
 
 ##### Production notes
 
-- This config uses `backend.name: git-gateway` for Netlify-hosted auth flow.
-- In Netlify, enable **Identity** and **Git Gateway** for the site.
-- Under Identity settings, register your external provider (GitHub) and allow the intended users.
-- Keep `backend.branch` set to the branch you want CMS commits to target (currently `main`).
-- Set `NETLIFY_SITE_ID` to your Netlify UUID (`f42d0c78-86a3-4d0a-b65c-b96ff7a1f507`) in Netlify environment variables to avoid domain-based auth redirects.
+- Keep `backend.name: github` and set `backend.repo`/`backend.branch` to your production repo.
+- Configure GitHub OAuth + your host's Decap auth endpoint.
+- Set OAuth callback URL(s) to your deployed admin path, e.g. `https://<your-domain>/admin/`.
 
 ##### Decap readiness checklist
 
@@ -178,7 +176,6 @@ This repo now includes an active Decap admin setup:
 - [ ] OAuth login succeeds for authorized users and rejects unauthorized users.
 - [ ] Page updates commit to the expected branch.
 - [ ] Uploaded media lands in `public/img` and resolves on the built site.
-- [ ] Login no longer redirects to a broken `api.netlify.com/auth?...site_id=<custom-domain>` URL.
 
 ### Navigation
 
