@@ -2,7 +2,7 @@
   "routes": [
     "/",
     "/bio",
-    "/picture-books",
+    "/books",
     "/contact",
     "/news/exhibition-recap",
     "/news/studio-update",

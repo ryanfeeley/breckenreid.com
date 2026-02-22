@@ -148,7 +148,7 @@ This repo now includes an active Decap admin setup:
 - `public/admin/config.yml` defines a file-based **Pages** collection for:
   - `src/content/pages/index.md`
   - `src/content/pages/about.md`
-  - `src/content/pages/picture-books.md`
+  - `src/content/pages/books.md`
   - `src/content/pages/contact.md`
 - Media uploads are stored in `public/img` and referenced via `/img`
 

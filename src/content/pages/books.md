@@ -1,16 +1,16 @@
 ---
-templateKey: picture-books
-thumbnail: /img/book-section.jpg
+templateKey: books
+thumbnail: /img/book-section.png
 date: 2023-03-02T10:17:05.133Z
-title: Picture Books
+title: Books
 description: Information about previous picture books Julia Breckenreid has illustrated.
 site_name: Julia Breckenreid
-url: https://breckenreid.com/picturebooks
+url: https://breckenreid.com/books
 type: website
 number: 2
 pagetype:
   - main
-featuredimage: /img/book-section.jpg
+featuredimage: /img/book-section.png
 ---
 
 ### _"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."_
