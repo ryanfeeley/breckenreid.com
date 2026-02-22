@@ -14,5 +14,4 @@ featuredimage: /img/studio.jpg
 - to request samples of editorial, poster, book & portrait work
 - to enquire about availability for a potential project, event or teaching opportunity
 
-email: julia@breckenreid.com  
-phone: 416-500-6943
+phone: [+1-416-500-6943](tel:+14165006943)
