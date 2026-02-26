@@ -60,6 +60,24 @@ const { title, description } = Astro.props;
         <script>
             import { navigate } from "astro:transitions/client";
 
+            // Netlify Identity emails use hash tokens (recovery/confirmation/invite).
+            // Ensure those links are routed to /admin where Decap auth runs.
+            const identityHashKeys = [
+                "recovery_token=",
+                "confirmation_token=",
+                "invite_token=",
+            ];
+            const hasIdentityHash = identityHashKeys.some((key) =>
+                window.location.hash.includes(key),
+            );
+
+            if (
+                hasIdentityHash &&
+                !window.location.pathname.startsWith("/admin")
+            ) {
+                window.location.replace(`/admin/${window.location.hash}`);
+            }
+
             function initNav() {
                 const burger = document.querySelector(".nav-burger");
                 const wrapper = document.querySelector(".site-wrapper");
