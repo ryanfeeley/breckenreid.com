@@ -44,6 +44,8 @@ Recipient of the **Marian Hebb Research Grant** from the Access Copyright Founda
 
 ## Featured in Books & Annuals
 
+![Image of book titled '100 Illustrators', published by Taschen](/img/Screenshot+2023-09-12+at+8.43.45+PM.png)
+
 * The Society of Illustrators: 52, 55 & 60  
 * The Society of Illustrators 52 — **Gold Medal**  
 * American Illustration: AI27, AI31, AI36 & AI41  
