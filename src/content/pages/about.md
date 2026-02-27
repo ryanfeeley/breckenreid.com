@@ -29,8 +29,7 @@ As an instructor in Sheridan College’s Illustration BA program, I developed an
 I have served on the Membership Committee for the Society of Illustrators, judged professional competitions at SOI and the Canadian National Magazine Awards, and spent five years as a Program Advisor for the Illustration Diploma at Seneca College. For nearly two decades, I have shaped emerging talent as a portfolio reviewer for Sheridan College and as a visiting artist at institutions including MICA, FIT, and Syracuse University.
 
 Currently...\
-My focus has shifted toward authorship and advocacy. \
-**I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of Generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
+My focus has shifted toward authorship and advocacy. **I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of Generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
 
 ## Marian Hebb Research Grant (2025)
 
