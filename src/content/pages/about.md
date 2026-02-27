@@ -22,11 +22,14 @@ My work has been celebrated in awards annuals and exhibitions that showcase exce
 ### \
 Teaching 
 
-As an instructor in Sheridan College’s Illustration BA program, I developed and delivered curriculum focused on conceptual process and media exploration. This passion for knowledge-sharing reaches a global audience through my **[Domestika](< https://www.domestika.org/en/courses/1270-creative-techniques-for-cover-illustration/julia_17 >)** course and my work as a dedicated mentor for initiatives such as **[Koyama Provides](https://www.instagram.com/koyamaprovides/)**. I have served on the Membership Committee for the Society of Illustrators, judged professional competitions at SOI and the Canadian National Magazine Awards, and spent five years as a Program Advisor for the Illustration Diploma at Seneca College. For nearly two decades, I have shaped emerging talent as a portfolio reviewer for Sheridan College and as a visiting artist at institutions including MICA, FIT, and Syracuse University.
+As an instructor in Sheridan College’s Illustration BA program, I developed and delivered curriculum focused on conceptual process and media exploration. This passion for knowledge-sharing reaches a global audience through my **[Domestika](< https://www.domestika.org/en/courses/1270-creative-techniques-for-cover-illustration/julia_17 >)** course and my work as a dedicated mentor for initiatives such as **[Koyama Provides](https://www.instagram.com/koyamaprovides/)**. \
+\
+I have served on the Membership Committee for the Society of Illustrators, judged professional competitions at SOI and the Canadian National Magazine Awards, and spent five years as a Program Advisor for the Illustration Diploma at Seneca College. For nearly two decades, I have shaped emerging talent as a portfolio reviewer for Sheridan College and as a visiting artist at institutions including MICA, FIT, and Syracuse University.
 
 ### Currently...
 
-**My focus has shifted toward authorship and advocacy. I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
+My focus has shifted toward authorship and advocacy. \
+**I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
 
 ### \
 Selected Clients
