@@ -15,6 +15,9 @@ I am a freelance illustrator with 28 years of experience specializing in visual 
 
 My work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and inclusion in Taschen’s *100 Illustrators*.
 
+Currently...
+My focus has shifted toward authorship and advocacy. **I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of Generative AI.** 
+
 **[Contact me](https://breckenreid.com/contact/)** to request samples of editorial, poster, book & portrait work.
 
 Selected Clients
@@ -26,10 +29,7 @@ ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publish
 Teaching\
 As an instructor in Sheridan College’s Illustration BA program, I developed and delivered curriculum focused on conceptual process and media exploration. This passion for knowledge-sharing reaches a global audience through my **[Domestika](< https://www.domestika.org/en/courses/1270-creative-techniques-for-cover-illustration/julia_17 >)** course and my work as a dedicated mentor for initiatives such as **[Koyama Provides](https://www.instagram.com/koyamaprovides/)**. \
 \
-I have served on the Membership Committee for the Society of Illustrators, judged professional competitions at SOI and the Canadian National Magazine Awards, and spent five years as a Program Advisor for the Illustration Diploma at Seneca College. For nearly two decades, I have shaped emerging talent as a portfolio reviewer for Sheridan College and as a visiting artist at institutions including MICA, FIT, and Syracuse University.
-
-Currently...\
-My focus has shifted toward authorship and advocacy. **I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of Generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
+I have served on the Membership Committee for the Society of Illustrators, judged professional competitions at SOI and the Canadian National Magazine Awards, and spent five years as a Program Advisor for the Illustration Diploma at Seneca College. For nearly two decades, I have shaped emerging talent as a portfolio reviewer for Sheridan College and as a visiting artist at institutions including MICA, FIT, and Syracuse University. I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
 
 ## Marian Hebb Research Grant (2025)
 
