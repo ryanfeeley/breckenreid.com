@@ -17,6 +17,10 @@ My work has been celebrated in awards annuals and exhibitions that showcase exce
 
 **[Contact me](https://breckenreid.com/contact/) to request samples of editorial, poster, book & portrait work.**
 
+Selected Clients
+ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
+
+
 **[Instagram](https://www.instagram.com/jbreckenreid/)** | **[Bluesky](https://bsky.app/profile/juliabreckenreid.bsky.social)** | **[Linkedin](www.linkedin.com/in/juliabreckenreid)** | **[Cara](https://cara.app/juliabreckenreid)**
 
 Teaching\
@@ -27,11 +31,6 @@ I have served on the Membership Committee for the Society of Illustrators, judge
 Currently...\
 My focus has shifted toward authorship and advocacy. \
 **I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
-
-### \
-Selected Clients
-
-ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
 
 ## Marian Hebb Research Grant (2025)
 
