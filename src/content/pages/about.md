@@ -30,7 +30,7 @@ I have served on the Membership Committee for the Society of Illustrators, judge
 
 Currently...\
 My focus has shifted toward authorship and advocacy. \
-**I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
+**I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of Generative AI.** I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
 
 ## Marian Hebb Research Grant (2025)
 
