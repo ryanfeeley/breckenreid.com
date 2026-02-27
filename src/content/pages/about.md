@@ -31,7 +31,7 @@ Recipient of the **Marian Hebb Research Grant** from the Access Copyright Founda
 
 ## Awards & Exhibitions
 
-![The Original Art Exhibition logo for the Society of Illlustrators in New York](/img/2_SI_logos.png)
+![The Original Art Exhibition logo for the Society of Illlustrators in New York](/img/2_si_logos.png)
 
 * **The Original Art Exhibition**\
   41st (2021) & 43rd (2023)\
