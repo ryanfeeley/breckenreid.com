@@ -3,7 +3,7 @@ templateKey: books
 title: Books
 description: Information about previous picture books Julia Breckenreid has illustrated.
 date: 2023-03-02T10:17:05.133Z
-thumbnail: /img/woolf_webglaze.jpg
+thumbnail: /img/book-section.png
 featuredimage: /img/book-section.png
 site_name: Julia Breckenreid
 url: https://breckenreid.com/books
