@@ -12,7 +12,11 @@ number: 2
 pagetype:
   - main
 ---
-![Books illustrated by Julia Breckenreid](/img/book-section.jpg)
+![Books illustrated by Julia Breckenreid]()
+
+### Books
+
+![](/img/book-section.jpg)
 
 ### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."*
 
