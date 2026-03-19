@@ -6,7 +6,7 @@ date: 2023-03-02T10:17:05.133Z
 thumbnail: /img/breckenreid_editorial.jpg
 featuredimage: /img/breckenreid_editorial.jpg
 site_name: Julia Breckenreid
-url: https://breckenreid.com/books
+url: https://breckenreid.com/work
 type: website
 number: 2
 pagetype:
