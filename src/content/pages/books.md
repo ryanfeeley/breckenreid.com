@@ -12,11 +12,13 @@ number: 2
 pagetype:
   - main
 ---
-### Editorial, Poster, Book & Portrait work
+### Above: Editorial, Poster & Portrait work
 
 ![](/img/book-section.jpg)
 
-### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."*
+### Illustrated Books
+
+##### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."*
 
 <small>--Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
 
