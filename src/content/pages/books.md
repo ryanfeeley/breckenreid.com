@@ -9,8 +9,7 @@ site_name: Julia Breckenreid
 url: https://breckenreid.com/work
 type: website
 number: 2
-pagetype:
-  - main
+pagetype: []
 ---
 ##### My editorial illustration work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](<>)** (SOI) and inclusion in Taschen’s *100 Illustrators*. 
 
