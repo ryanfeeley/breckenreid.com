@@ -12,7 +12,7 @@ number: 2
 pagetype:
   - main
 ---
-![Books illustrated by Julia Breckenreid]()
+![]()
 
 ### Books
 
