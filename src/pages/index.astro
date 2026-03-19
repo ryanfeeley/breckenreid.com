@@ -4,7 +4,7 @@ import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
 const allPages = await getCollection('pages');
-const homeCardOrder = ['books', 'about', 'contact'];
+const homeCardOrder = ['work', 'about', 'contact'];
 const mainPages = allPages.filter((item) => item.data.pagetype?.includes('main'));
 const orderedPosts = homeCardOrder.flatMap((slug) => mainPages.filter((page) => page.slug === slug));
 const remainingPosts = mainPages
