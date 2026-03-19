@@ -28,8 +28,6 @@ My work has been twice selected for **The Original Art** exhibition at [the Soci
 * The Canadian Children's Book Centre magazine, Best Books for Kids & Teens for 2022 gave Herbert & Dorothy a Red Star, signifying a title of exceptional calibre.
 * The kitchen scene in this book has been chosen for the American Illustration 41 archive.
 
-Here is a [KEY](https://julia-breckenreid.squarespace.com/key) to help you identify and find out more about the artists in the Herbert & Dorothy book.
-
 **An Eye for Color: The Story of Josef Albers** *"Strikingly illustrated by the award-winning graphic artist Breckenreid (in an admirable picture-book debut) and supported by terrific, inclusive backmatter, this will prove a must-have for museum shops as well as school and public libraries…"*- Kirkus Reviews
 
 * Starred review from The School Library Journal
