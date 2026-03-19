@@ -1,5 +1,5 @@
 ---
-templateKey: books
+templateKey: work
 title: Work
 description: Julia Breckenreid's Illustration Portfolio
 date: 2023-03-02T10:17:05.133Z
