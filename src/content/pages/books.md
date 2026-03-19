@@ -12,9 +12,7 @@ number: 2
 pagetype:
   - main
 ---
-![]()
-
-### Books
+### Editorial, Poster, Book & Portrait work
 
 ![](/img/book-section.jpg)
 
