@@ -17,9 +17,7 @@ I am a freelance illustrator with 28 years of experience specializing in visual 
 
 My work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and inclusion in Taschen’s *100 Illustrators*.
 
-Currently my focus has shifted toward authorship and advocacy. **I remain open to assignments from clients while working on my own narrative stories and navigating the complexities of life as an artist in the age of Generative AI.** 
-
-**[Contact me](https://breckenreid.com/contact/)** to request samples of editorial, poster, book & portrait work.
+Currently my focus has shifted toward working on explorative personal projects while navigating the complexities of life as an artist in the age of Generative AI. **[Contact me](https://breckenreid.com/contact/)** if you've got a tempting project.
 
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
