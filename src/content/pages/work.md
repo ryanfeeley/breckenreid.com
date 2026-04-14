@@ -54,3 +54,5 @@ My work has been twice selected for **The Original Art** exhibition at [the Soci
   Chinese translation: 986604906X - Hardcover 2011
 
 **Find my books at your local library, or online via** **IndieBound**
+
+![](/img/aroyo_6_7instagram.jpg)
