@@ -11,6 +11,8 @@ pagetype:
 ---
 ## About Julia
 
+![](/img/image-2026-04-14-16-34-11.jpg)
+
 I am a freelance illustrator with 28 years of experience specializing in visual storytelling and conceptual development. Fascinated by what makes people tick, my practice is defined by an expressive style that shines when applied to first-person perspectives, biography, portraiture, and “hard-to-tell” stories. My aim is to provoke curiosity and create a lasting emotional connection with the viewer.
 
 My work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and inclusion in Taschen’s *100 Illustrators*.
