@@ -11,7 +11,7 @@ pagetype:
 ---
 ## About Julia
 
-![]()
+![](/img/breckenreid_selfportrait.jpg)
 
 I am a freelance illustrator with 28 years of experience specializing in visual storytelling and conceptual development. Fascinated by what makes people tick, my practice is defined by an expressive style that shines when applied to first-person perspectives, biography, portraiture, and “hard-to-tell” stories. My aim is to provoke curiosity and create a lasting emotional connection with the viewer.
 
@@ -26,7 +26,7 @@ Currently my focus has shifted toward authorship and advocacy. **I remain open t
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
 
-**[Instagram](https://www.instagram.com/jbreckenreid/)** | **[Bluesky](https://bsky.app/profile/juliabreckenreid.bsky.social)** | **[Linkedin](www.linkedin.com/in/juliabreckenreid)** | **[Cara](https://cara.app/juliabreckenreid)**
+![](/img/breckenreid_selfportrait.jpg)
 
 ## Teaching
 
