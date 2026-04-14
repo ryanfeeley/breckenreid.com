@@ -3,8 +3,8 @@ templateKey: about-page
 title: About
 description: About Julia  Breckenreid
 date: 2023-03-02T10:17:05.133Z
-thumbnail: /img/julia-algonquin-tree.jpg
-featuredimage: /img/julia-algonquin-tree.jpg
+thumbnail: /img/about_banner.jpg
+featuredimage: /img/about_banner.jpg
 number: 1
 pagetype:
   - main
