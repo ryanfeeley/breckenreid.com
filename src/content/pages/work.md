@@ -22,11 +22,10 @@ pagetype:
 
 ![](/img/book-section.png)
 
-##### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."*
+##### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."* \
+<small>--Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
 
 ![](/img/woolf_webglaze.jpg)
-
-<small>--Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
 
 My work has been twice selected for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/): first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
 
