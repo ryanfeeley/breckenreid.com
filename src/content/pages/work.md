@@ -16,9 +16,11 @@ pagetype:
 
 ![A poster illustration created for Algonquin Park in Canada](/img/poster_tree_websm_glaze.jpg)
 
-![](/img/book-section.jpg)
+![]()
 
 ### Illustrated Books
+
+![](/img/book-section.png)
 
 ##### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."*
 
