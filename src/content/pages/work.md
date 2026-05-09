@@ -12,7 +12,7 @@ number: 2
 pagetype:
   - main
 ---
-##### My illustration work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](<>)** (SOI) and inclusion in Taschen’s *100 Illustrators*.
+##### <small>My illustration work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](<>)** (SOI) and inclusion in Taschen’s *100 Illustrators*.</small>
 
 ![A poster illustration created for Algonquin Park in Canada](/img/poster_tree_websm_glaze.jpg)
 
