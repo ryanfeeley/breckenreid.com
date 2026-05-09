@@ -22,7 +22,7 @@ pagetype:
 
 ![](/img/book-section.png)
 
-##### *"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."* <small>--Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
+##### <small>*"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."* --Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
 
 ![](/img/woolf_webglaze.jpg)
 
