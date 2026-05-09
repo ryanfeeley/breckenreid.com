@@ -10,8 +10,3 @@ pagetype:
   - main
 ---
 ## Contact Julia
-
-* To request samples of editorial, poster, book & portrait work
-* To enquire about availability for a potential project, event or teaching opportunity
-
-phone: [+1-416-500-6943](tel:+14165006943)
