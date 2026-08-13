@@ -6,8 +6,7 @@ date: 2023-03-02T10:17:05.133Z
 thumbnail: /img/about_banner.jpg
 featuredimage: /img/about_banner.jpg
 number: 1
-pagetype:
-  - main
+pagetype: []
 ---
 ## About Julia
 
@@ -21,8 +20,6 @@ Currently my focus has shifted toward working on explorative personal projects w
 
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
-
-![]()
 
 ## Teaching
 
