@@ -22,7 +22,7 @@ Currently my focus has shifted toward working on explorative personal projects w
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
 
-![](/img/Me_December_studio_web.jpg)
+![]()
 
 ## Teaching
 
