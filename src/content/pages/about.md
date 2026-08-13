@@ -19,6 +19,8 @@ Currently my focus has shifted toward working on explorative personal projects w
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
 
+![](/img/breckenreid_selfportrait.jpg)
+
 ## Teaching
 
 As an instructor in Sheridan College’s Illustration BA program, I developed and delivered curriculum focused on conceptual process and media exploration. This passion for knowledge-sharing reaches a global audience through my **[Domestika](< https://www.domestika.org/en/courses/1270-creative-techniques-for-cover-illustration/julia_17 >)** course and my work as a dedicated mentor for initiatives such as **[Koyama Provides](https://www.instagram.com/koyamaprovides/)**. \
