@@ -34,7 +34,9 @@ I have served on the Membership Committee for the Society of Illustrators, judge
 
 ![Access Copyright Foundation Logo](/img/ACFlogo_FINAL-black_socialmedia3822.jpg)
 
-Recipient of the **Marian Hebb Research Grant** from the Access Copyright Foundation, supporting the creation of a nonfiction graphic memoir.
+Recipient of two grants from the Access Copyright Foundation, supporting the creation of a nonfiction graphic memoir:\
+**ACF Professional Development Grant, 2026**\
+**ACF Marian Hebb Research Grant, 2025**
 
 ## Awards & Exhibitions
 
