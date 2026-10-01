@@ -10,11 +10,11 @@ pagetype: []
 ---
 ## About Julia
 
-I'm a freelance illustrator with experience that specializes in visual storytelling and conceptual development. Fascinated by what makes people tick, my images have an expressive style that shines when created for personal perspectives, biography, portraiture, and “hard-to-tell” stories. 
+I'm a freelance illustrator that is fascinated by what makes people tick. My images have an expressive style that shines when created for personal perspectives, biography, portraiture, and “hard-to-tell” stories. 
 
-My work has been celebrated in awards annuals and exhibitions that showcase excellence and innovation in the field, notably earning a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and inclusion in Taschen’s *100 Illustrators.*
+This work has been celebrated in award annuals and exhibitions that showcase excellence and innovation in the field, notably with a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and profiled in a coffee table book by Taschen titled, *100 Illustrators.*
 
-Currently I'm working on a nonfiction graphic novel while navigating life as an artist in the age of Generative AI. **[Contact me](https://breckenreid.com/contact/)** if you've got a tempting project.
+##### Currently I'm working on a nonfiction graphic novel while navigating life as an artist in the age of Generative AI. **[Contact me](https://breckenreid.com/contact/)** if you've got a tempting project.
 
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
