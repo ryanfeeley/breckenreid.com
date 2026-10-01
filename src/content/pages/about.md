@@ -10,9 +10,7 @@ pagetype: []
 ---
 ## About Julia
 
-I'm a freelance illustrator that is fascinated by what makes people tick. My images have an expressive style that shines when created for personal perspectives, biography, portraiture, and “hard-to-tell” stories. 
-
-This work has been celebrated in award annuals and exhibitions that showcase excellence and innovation in the field, notably with a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and profiled in a coffee table book by Taschen titled, *100 Illustrators.*
+I'm a freelance illustrator that is fascinated by what makes people tick. My images have an expressive style that shines when created for personal perspectives, biography, portraiture, and “hard-to-tell” stories. This work has been celebrated in award annuals and exhibitions that showcase excellence and innovation in the field, notably with a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and profiled in a coffee table book by Taschen titled, *100 Illustrators.*
 
 ##### Currently I'm working on a nonfiction graphic novel while navigating life as an artist in the age of Generative AI. **[Contact me](https://breckenreid.com/contact/)** if you've got a tempting project.
 
