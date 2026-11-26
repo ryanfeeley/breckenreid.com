@@ -24,6 +24,8 @@ pagetype:
 
 Julia's picture book illustration work has been selected twice for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/) museum in New York: first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
 
+See more **About Julia 🔗**
+
 ![A gatefold illustration from the Dorothy & Herbert picture book.](/img/juliabreckenreid_dotherb_gatefold.jpg "A gatefold illustration from the Dorothy & Herbert picture book.")
 
 **Dorothy & Herbert** *"…memorable, innovative illustrations (including a particularly dramatic double gatefold) capture the Vogels' love of art and the artists of New York's SoHo community…"* - Kirkus Reviews *"What an odd and enchanting book! …"* - The School Library Journal
