@@ -11,4 +11,4 @@ pagetype:
 ---
 ## **[About Julia 🔗](https://breckenreid.com/about)**
 
-## Contact Julia using the form below ↓
+## Contact Julia ↓
