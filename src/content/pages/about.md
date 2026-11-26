@@ -5,10 +5,10 @@ description: ""
 date: 2023-03-02T10:17:05.133Z
 thumbnail: /img/about_banner.jpg
 featuredimage: /img/about_banner.jpg
-number: 1
+number: 2
 pagetype: []
 ---
-Julia Breckenreid is an illustrator fascinated by what makes people tick. Her expressive style shines in imagery centred on personal perspectives, biography, portraiture, and “hard-to-tell” stories. Her work has been celebrated in award annuals and exhibitions showcasing excellence and innovation in the field—notably earning a Gold Medal from [the Society of Illustrators in New York (SOI)](https://societyillustrators.org/) and being featured in Taschen’s coffee-table anthology *100 Illustrators*. 
+Julia Breckenreid is an illustrator fascinated by what makes people tick. Her expressive style shines in imagery centred on personal perspectives, biography, portraiture, and “hard-to-tell” stories. Her work has been celebrated in award annuals and exhibitions showcasing excellence and innovation in the field—notably earning a Gold Medal from [the **Society of Illustrators in New York** (SOI)](https://societyillustrators.org/) and being featured in **Taschen**’s coffee-table anthology *100 Illustrators*. 
 
 Julia is currently working on a nonfiction graphic novel while navigating life as an artist in the age of Generative AI.
 
