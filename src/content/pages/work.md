@@ -12,7 +12,7 @@ number: 2
 pagetype:
   - main
 ---
-![One image from a series of posters created for Algonquin Park in Canada](/img/poster_tree_websm_glaze.jpg)
+![One image from a series of posters created for Algonquin Park in Canada](/img/poster_tree_websm_glaze.jpg "ABOUT JULIA")
 
 ### Illustrated Books
 
