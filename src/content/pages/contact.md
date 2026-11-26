@@ -9,6 +9,6 @@ number: 3
 pagetype:
   - main
 ---
-## [About Julia](https://breckenreid.com/about)
+## **[About Julia](https://breckenreid.com/about)**
 
-## Contact Julia
+Contact Julia using the form below ↓
