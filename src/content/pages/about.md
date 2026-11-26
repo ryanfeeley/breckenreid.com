@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
-title: About
-description: About Julia Breckenreid
+title: Experience
+description: ""
 date: 2023-03-02T10:17:05.133Z
 thumbnail: /img/about_banner.jpg
 featuredimage: /img/about_banner.jpg
