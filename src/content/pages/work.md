@@ -18,13 +18,13 @@ pagetype:
 
 ![](/img/book-section.png)
 
-<small>*"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."* --Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
+Julia's picture book illustration work has been selected twice for **The Original Art** exhibition at the Society of Illustrators museum in New York: first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
+
+See more **About Julia 🔗**
 
 ![](/img/woolf_webglaze.jpg)
 
-Julia's picture book illustration work has been selected twice for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/) museum in New York: first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
-
-See more **About Julia 🔗**
+<small>*"It is fortunate that the words chosen are so powerful, because otherwise there would be a risk of Breckenreid's illustrations stealing the show."* --Vanessa Curtis, Bulletin, No. 74, the Virginia Woolf Society of Great Britain.</small>
 
 ![A gatefold illustration from the Dorothy & Herbert picture book.](/img/juliabreckenreid_dotherb_gatefold.jpg "A gatefold illustration from the Dorothy & Herbert picture book.")
 
