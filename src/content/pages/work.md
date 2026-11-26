@@ -22,7 +22,7 @@ pagetype:
 
 ![](/img/woolf_webglaze.jpg)
 
-Julia's picture book illustration work has been selected twice for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/): first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
+Julia's picture book illustration work has been selected twice for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/) museum in New York: first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
 
 ![A gatefold illustration from the Dorothy & Herbert picture book.](/img/juliabreckenreid_dotherb_gatefold.jpg "A gatefold illustration from the Dorothy & Herbert picture book.")
 
