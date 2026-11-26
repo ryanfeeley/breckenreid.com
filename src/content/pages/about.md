@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About
-description: About Julia  Breckenreid
+description: About Julia Breckenreid
 date: 2023-03-02T10:17:05.133Z
 thumbnail: /img/about_banner.jpg
 featuredimage: /img/about_banner.jpg
@@ -10,20 +10,10 @@ pagetype: []
 ---
 ## About Julia
 
-I'm a freelance illustrator that is fascinated by what makes people tick. My images have an expressive style that shines when created for personal perspectives, biography, portraiture, and “hard-to-tell” stories. This work has been celebrated in award annuals and exhibitions that showcase excellence and innovation in the field, notably with a Gold Medal from **[the Society of Illustrators in New York](https://societyillustrators.org/)** (SOI) and profiled in a coffee table book by Taschen titled, *100 Illustrators.*
-
-##### Currently I'm working on a nonfiction graphic novel while navigating life as an artist in the age of Generative AI. **[Contact me](https://breckenreid.com/contact/)** if you've got a tempting project.
+Julia Breckenreid is an illustrator fascinated by what makes people tick. Her expressive style shines in imagery centred on personal perspectives, biography, portraiture, and “hard-to-tell” stories. Her work has been celebrated in award annuals and exhibitions showcasing excellence and innovation in the field—notably earning a Gold Medal from [**the Society of Illustrators in New York** (SOI)](https://societyillustrators.org/) and being featured in Taschen’s coffee-table anthology *100 Illustrators*. Julia is currently working on a nonfiction graphic novel while navigating life as an artist in the age of Generative AI.
 
 Selected Clients
 ABRAMS · Chronicle Books · Macmillan · Tundra · Penguin Random House Publishing ·  The New York Times · The Boston Globe ·Smithsonian · Nautilus · Scientific American ·  *O* The Oprah Magazine · Reader’s Digest · UCLA · Colloquy (Harvard) ·  Johns Hopkins and Stanford magazine(s)
-
-![](/img/breckenreid_selfportrait.jpg)
-
-## Teaching
-
-As an instructor in Sheridan College’s Illustration BA program, I developed and delivered curriculum focused on conceptual process and media exploration. This passion for knowledge-sharing reaches a global audience through my **[Domestika](< https://www.domestika.org/en/courses/1270-creative-techniques-for-cover-illustration/julia_17 >)** course and my work as a dedicated mentor for initiatives such as **[Koyama Provides](https://www.instagram.com/koyamaprovides/)**. \
-\
-I have served on the Membership Committee for the Society of Illustrators, judged professional competitions at SOI and the Canadian National Magazine Awards, and spent five years as a Program Advisor for the Illustration Diploma at Seneca College. For nearly two decades, I have shaped emerging talent as a portfolio reviewer for Sheridan College and as a visiting artist at institutions including MICA, FIT, and Syracuse University. I have found immense value in guiding illustrators through consultation and portfolio development, and I continue to support artists individually—helping them protect their craft and strengthen the originality and humanity of their work.
 
 ![Access Copyright Foundation Logo](/img/ACFlogo_FINAL-black_socialmedia3822.jpg)
 
@@ -36,7 +26,7 @@ Recipient of two grants from the Access Copyright Foundation, supporting the cre
 ![The Original Art Exhibition logo for the Society of Illlustrators in New York](/img/2_si_logos.png)
 
 * **The Original Art Exhibition**\
-  41st (2021) & 43rd (2023)\
+  41st (2021) and 43rd (2023)\
   Society of Illustrators Museum, New York\
   *A showcase of illustrations from the year’s best children’s books published in the USA.*
 * **Society of Illustrators**\
@@ -59,16 +49,3 @@ Recipient of two grants from the Access Copyright Foundation, supporting the cre
   Distributed at Women’s Marches across the U.S., January 21, 2017.  
 * *Illustration Now*, Taschen Publishing  
 * *100 Illustrators*, Taschen Publishing
-
-## Judging & Professional Service
-
-My expertise is recognized within the illustration community, and I have had the honour of serving in the following professional capacities:
-
-* **Portfolio Reviewer**\
-  For 18 years, annually reviewed applicant portfolios for the competitive Illustration BA at Sheridan College; served on the Membership Committee at the Society of Illustrators (New York); and reviewed MFA thesis work at the Maryland Institute College of Art (MICA).
-* **Competition Judge**\
-  Judged professional annual competitions, the Zankel Scholarship, and Student Scholarships at the Society of Illustrators (New York), as well as the Canadian National Magazine Awards.
-* **Visiting Artist**\
-  Worked with students at institutions including the Ontario College of Art University (OCADU), the Fashion Institute of Technology (FIT) NYC, Syracuse University, and the New Hampshire Institute of Art.
-* **Program Advisor**\
-  Served on the Illustration Program Advisory Committee at Seneca College, October 2020 – November 2025.
