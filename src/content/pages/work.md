@@ -1,7 +1,7 @@
 ---
 templateKey: work
 title: Work
-description: Julia Breckenreid's Illustration Portfolio
+description: Portfolio
 date: 2023-03-02T10:17:05.133Z
 thumbnail: /img/breckenreid_editorial.jpg
 featuredimage: /img/breckenreid_editorial.jpg
@@ -12,9 +12,7 @@ number: 2
 pagetype:
   - main
 ---
-
-
-![1 of a series of posters created for Algonquin Park in Canada](/img/poster_tree_websm_glaze.jpg)
+![One image from a series of posters created for Algonquin Park in Canada](/img/poster_tree_websm_glaze.jpg)
 
 ### Illustrated Books
 
@@ -24,7 +22,7 @@ pagetype:
 
 ![](/img/woolf_webglaze.jpg)
 
-My work has been twice selected for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/): first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
+Julia's picture book illustration work has been twice selected for **The Original Art** exhibition at [the Society of Illustrators](https://societyillustrators.org/): first in 2021 for *Dorothy & Herbert*, then again in 2023 for *The Pocket Book*. This prestigious annual showcase and catalogue honors the year's best children's book illustrations published in the United States.
 
 ![A gatefold illustration from the Dorothy & Herbert picture book.](/img/juliabreckenreid_dotherb_gatefold.jpg "A gatefold illustration from the Dorothy & Herbert picture book.")
 
